@@ -1,1 +1,3 @@
-
+leha = 1
+if leha == 1:
+  print("Leha gay")
